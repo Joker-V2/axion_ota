@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1755402881,
-            "filename": "axion-2.0-BETA-20250817-COMMUNITY-GMS-violet.zip",
-            "id": "a3e573c86b0f1efc012fcd0318291502",
+            "datetime": 1755614009,
+            "filename": "axion-2.0-BETA-20250819-COMMUNITY-GMS-violet.zip",
+            "id": "f44043c3a6d0cfc3de25ff55104269f7",
             "romtype": "COMMUNITY",
-            "size": 1758295834,
-            "url": "https://github.com/Joker-V2/axion_ota/releases/download/v1.0/axion-2.0-BETA-20250817-COMMUNITY-GMS-violet.zip",
+            "size": 1757893291,
+            "url": "https://github.com/Joker-V2/axion_ota/releases/download/v2.1/axion-2.0-BETA-20250819-COMMUNITY-GMS-violet.zip",
             "version": "2.0"
         }
     ]
